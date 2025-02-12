@@ -1,4 +1,3 @@
-
 ---
 title: Public defense (video presentation)
 layout: page
