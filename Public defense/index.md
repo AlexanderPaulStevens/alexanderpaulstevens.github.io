@@ -1,5 +1,5 @@
 ---
-title: Public defense
+title: Public Defense
 layout: page
 show-avatar: false
 ---
